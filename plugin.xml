@@ -20,14 +20,14 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
-id="cordova-plugin-media"
-    version="5.0.2">
+id="mk-cordova-media"
+    version="1.0.0">
 
     <name>Media</name>
-    <description>Cordova Media Plugin</description>
+    <description>MK Cordova Media</description>
     <license>Apache 2.0</license>
     <keywords>cordova,media</keywords>
-    <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-media.git</repo>
+    <repo>https://github.com/Morsekode/mk-cordova-media</repo>
     <issue>https://issues.apache.org/jira/browse/CB/component/12320647</issue>
 
     <engines>
