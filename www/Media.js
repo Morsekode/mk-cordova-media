@@ -1,4 +1,4 @@
-cordova.define("cordova-plugin-media.Media", function(require, exports, module) {
+cordova.define("mk-cordova-media.Media", function(require, exports, module) {
 /*
  *
  * Licensed to the Apache Software Foundation (ASF) under one
